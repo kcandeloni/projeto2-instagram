@@ -43,6 +43,8 @@ body {
     background-color: #ffffff;
 
     position: fixed;
+    top: 0;
+    left: 0;
     z-index: 3;
 }
 /*
@@ -443,6 +445,26 @@ p3 {
         display: flex;
     }
     .barra_inferior {
-      display: flex;
+        display: flex;
     }
+    .box_stories {
+        width: 100%;
+    }
+    
+    .posts {
+        width: 100%;
+    }
+    .img_post {
+        width: 100%;
+    }
+    .top_post {
+        width: 100%;
+    }
+    .mid_post {
+        width: 100%;
+    }
+    .bottom_post {
+        width: 100%;
+    }
+
   }
