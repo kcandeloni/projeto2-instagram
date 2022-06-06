@@ -448,6 +448,10 @@ p3 {
     .barra_inferior {
         display: flex;
     }
+    .setinha {
+        display: none;
+    }
+    
     .box_stories {
         width: 100%;
     }
