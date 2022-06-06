@@ -425,6 +425,7 @@ p3 {
 
     position: fixed;
     bottom: 0;
+    left: 0;
 }
 
 @media (max-width: 935px) {
